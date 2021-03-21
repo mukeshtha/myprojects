@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is D6A2-699B
-
- Directory of C:\Users\tmuke\OneDrive\Desktop\MyProject
-
-21-03-2021  17:16    <DIR>          .
-21-03-2021  17:16    <DIR>          ..
-21-03-2021  17:16                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  314,364,932,096 bytes free
+Change 1
